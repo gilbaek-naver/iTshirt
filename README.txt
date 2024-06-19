@@ -1,1 +1,1 @@
-처음으로 git study
+처음으로 git study [수정]
